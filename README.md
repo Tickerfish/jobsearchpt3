@@ -1,3 +1,3 @@
 # jobsearchpt3
 [Jobsearchpt3]
-(https://tickerfish.github.io/jobsearchpt3/)
+(https://Tickerfish.github.io/jobsearchpt3/)
